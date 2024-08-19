@@ -1,1 +1,1 @@
-some task for depi scholarship 
+Depi training in frontend tasks
